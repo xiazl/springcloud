@@ -29,6 +29,8 @@
         <module>zuul</module>
         <module>config-server</module>
         <module>config-client</module>
+        <module>spring-cloud-bus</module>
+        <module>spring-cloud-geteway</module>
 
     </modules>
 
